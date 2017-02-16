@@ -1,2 +1,2 @@
 # i3smartlocker
-Drawing i3lock screen with adding info
+Drawing i3lock screen with additional info
